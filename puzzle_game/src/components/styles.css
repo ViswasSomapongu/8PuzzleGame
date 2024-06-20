@@ -2,12 +2,12 @@
 
 .grid {
     width: 100%;
-    max-width: 400px; /* You can adjust this value based on your needs */
+    max-width: 400px; 
   }
   
   .grid > div {
     width: 100%;
-    position: relative; /* Needed for absolute positioning of inner content */
+    position: relative; 
   }
   
   .grid > div > div {
